@@ -32,6 +32,52 @@ ryuk@dev:~$ cat interests.txt
 
 <br/>
 
+## 📖 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+**Name:** _add your name/alias_
+**Loves:** _add here_
+**Hobbies:** _add here_
+
+> <!-- your tagline / quote goes here -->
+
+<!--
+  Paste your bio content into this section — name, loves, hobbies, quote —
+  and I'll drop it in exactly where you want it.
+-->
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://placehold.co/300x400/0d1117/B388FF?text=your+banner+image" width="240"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🛠️ Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,express,react,nextjs,discordjs,mongodb,postgres,docker,git,github,linux,bash,html,css,tailwind&theme=dark"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryukcodes333&theme=radical&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<br/>
+
 ## 🧠 Featured Work
 
 <table>
@@ -110,6 +156,18 @@ goal_2026:  ship ryukcodes.dev as a matching portfolio
 <a href="https://github.com/ryukcodes333"><img src="https://img.shields.io/badge/GitHub-ryukcodes333-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Discord-add--your--tag-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-add--your--email-B388FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 🎁 Support Me
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/ryukcodes333">
+  <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
 
 </div>
 
